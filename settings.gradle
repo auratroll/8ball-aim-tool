@@ -5,6 +5,7 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
+
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
     repositories {
@@ -13,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "8 Ball Aim Assistant"
+rootProject.name = "8Ball Aim Assistant"
 include ':app'
